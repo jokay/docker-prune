@@ -4,7 +4,7 @@ env:
   GITHUB_REGISTRY: "ghcr.io/x-jokay/prune"
   GITLAB_REGISTRY: "registry.gitlab.com/x-jokay/docker-prune"
   DOCKERHUB_REGISTRY: "docker.io/xjokay/prune"
-  PLATFORMS: "linux/amd64,linux/arm64"
+  PLATFORMS: "linux/amd64,linux/arm/v6,linux/arm/v7,linux/arm64"
 
 on:
   workflow_dispatch:

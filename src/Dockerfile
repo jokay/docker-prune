@@ -1,4 +1,4 @@
-FROM docker.io/docker:20.10.2
+FROM docker.io/docker:latest
 
 ENV INTERVAL 86400 \
     OBJECTS "container volume image"
