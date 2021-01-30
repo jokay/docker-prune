@@ -101,4 +101,4 @@ jobs:
           tag_name: ${{ github.ref }}
           release_name: ${{ github.ref }}
           body: |
-            This release **${{ env.VERSION }}** uses Docker version **${{ env.VERSION }}**.
+            Please refer to [CHANGELOG.md](https://github.com/${{ github.repository }}/blob/main/CHANGELOG.md) for details.
