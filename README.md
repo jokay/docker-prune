@@ -43,7 +43,7 @@ None
 
 ### docker-compose
 
-```yaml
+```yml
 services:
   app:
     image: docker.io/xjokay/prune:latest
