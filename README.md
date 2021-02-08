@@ -4,9 +4,9 @@ Docker image for Docker [prune](https://docs.docker.com/config/pruning).
 
 ## Information
 
-| Service                                             | Stats |
-|-----------------------------------------------------|-------|
-| [GitHub](https://github.com/x-jokay/docker-prune)   | ![Last commit](https://img.shields.io/github/last-commit/x-jokay/docker-prune.svg?style=flat-square) ![Issues](https://img.shields.io/github/issues-raw/x-jokay/docker-prune.svg?style=flat-square) ![PR](https://img.shields.io/github/issues-pr-raw/x-jokay/docker-prune.svg?style=flat-square) |
+| Service | Stats |
+|---------|-------|
+| [GitHub](https://github.com/jokay/docker-prune) | ![Last commit](https://img.shields.io/github/last-commit/jokay/docker-prune.svg?style=flat-square) ![Issues](https://img.shields.io/github/issues-raw/jokay/docker-prune.svg?style=flat-square) ![PR](https://img.shields.io/github/issues-pr-raw/jokay/docker-prune.svg?style=flat-square) |
 | [Docker Hub](https://hub.docker.com/r/xjokay/prune) | ![Pulls](https://img.shields.io/docker/pulls/xjokay/prune.svg?style=flat-square) ![Stars](https://img.shields.io/docker/stars/xjokay/prune.svg?style=flat-square) |
 
 ## Usage
@@ -20,7 +20,7 @@ docker pull docker.io/xjokay/prune:latest
 | Tag       | Description         | Size |
 |-----------|---------------------|------|
 | latest    | Latest `main` build | ![Size](https://shields.beevelop.com/docker/image/image-size/xjokay/prune/latest.svg?style=flat-square) |
-| {release} | Specific release version, see available [releases](https://github.com/x-jokay/docker-prune/releases) | |
+| {release} | Specific release version, see available [releases](https://github.com/jokay/docker-prune/releases) | |
 
 ### Exposed Ports
 
