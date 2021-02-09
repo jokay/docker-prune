@@ -4,6 +4,6 @@
 
 This release contains Docker [20.10.3](https://docs.docker.com/engine/release-notes/#20103).
 
-## [20.10.2](https://github.com/jokay/docker-prune/releases/tag/20.10.2) (2021-01-29)
+## 20.10.2 (2021-01-29)
 
-This release contains Docker [20.10.2](https://docs.docker.com/engine/release-notes/#20102).
+This release contained Docker [20.10.2](https://docs.docker.com/engine/release-notes/#20102).
