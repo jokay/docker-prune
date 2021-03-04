@@ -1,5 +1,9 @@
 # Changelog
 
+## [20.10.5](https://github.com/jokay/docker-prune/releases/tag/20.10.5) (2021-03-04)
+
+This release contains Docker [20.10.5](https://docs.docker.com/engine/release-notes/#20105).
+
 ## [20.10.4](https://github.com/jokay/docker-prune/releases/tag/20.10.4) (2021-03-02)
 
 This release contains Docker [20.10.4](https://docs.docker.com/engine/release-notes/#20104).
