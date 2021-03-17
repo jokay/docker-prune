@@ -34,10 +34,10 @@ None
 
 ### Configuration
 
-| ENV field | Req. / Opt.  | Description                                                |
-|-----------|--------------|------------------------------------------------------------|
-| INTERVAL  | *Optional*   | Interval of pruning, default is `86400` seconds.           |
-| OBJECTS   | *Optional*   | Objects to be pruned, default is `container volume image`. |
+| ENV field | Req. / Opt.  | Description                                                        |
+|-----------|--------------|--------------------------------------------------------------------|
+| INTERVAL  | *Optional*   | Interval of pruning, default is `86400` seconds (24h).             |
+| OBJECTS   | *Optional*   | Objects to be pruned, default is `container volume image network`. |
 
 ## Samples
 
@@ -51,7 +51,7 @@ services:
       - /var/run/docker.sock:/var/run/docker.sock
     environment:
       - INTERVAL=86400
-      - "OBJECTS=container volume image"
+      - "OBJECTS=container volume image network"
     restart: always
 ```
 
@@ -61,6 +61,6 @@ services:
 docker run -d \
   -v /var/run/docker.sock:/var/run/docker.sock \
   -e INTERVAL=86400 \
-  -e "OBJECTS=container volume image" \
+  -e "OBJECTS=container volume image network" \
   docker.io/xjokay/prune:latest
 ```
