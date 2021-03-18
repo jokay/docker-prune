@@ -34,10 +34,10 @@ None
 
 ### Configuration
 
-| ENV field | Req. / Opt.  | Description                                                        |
-|-----------|--------------|--------------------------------------------------------------------|
-| INTERVAL  | *Optional*   | Interval of pruning, default is `86400` seconds (24h).             |
-| OBJECTS   | *Optional*   | Objects to be pruned, default is `container volume image network`. |
+| ENV field | Req. / Opt.  | Description                                                                                                              |
+|-----------|--------------|--------------------------------------------------------------------------------------------------------------------------|
+| INTERVAL  | *Optional*   | Interval of pruning, default is `86400` seconds (24h).                                                                   |
+| OBJECTS   | *Optional*   | Objects to be pruned, default is `container volume image`. Additionally `network` can be added if desired (see samples). |
 
 ## Samples
 
