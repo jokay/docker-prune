@@ -38,6 +38,7 @@ None
 |-----------|--------------|--------------------------------------------------------------------------------------------------------------------------|
 | INTERVAL  | *Optional*   | Interval of pruning, default is `86400` seconds (24h).                                                                   |
 | OBJECTS   | *Optional*   | Objects to be pruned, default is `container volume image`. Additionally `network` can be added if desired (see samples). |
+| OPTIONS   | *Optional*   | Additional [options](https://docs.docker.com/engine/reference/commandline/system_prune/#filtering) (default: none), e.g. `--filter until=24h` for objects created more than 1 day ago. |
 
 ## Samples
 
@@ -52,6 +53,7 @@ services:
     environment:
       - INTERVAL=86400
       - "OBJECTS=container volume image network"
+      - "OPTIONS=--filter until=24h"
     restart: always
 ```
 
@@ -62,5 +64,6 @@ docker run -d \
   -v /var/run/docker.sock:/var/run/docker.sock \
   -e INTERVAL=86400 \
   -e "OBJECTS=container volume image network" \
+  -e "OPTIONS=--filter until=24h" \
   docker.io/xjokay/prune:latest
 ```

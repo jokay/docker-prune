@@ -2,6 +2,7 @@ FROM docker.io/docker:latest
 
 ENV INTERVAL 86400
 ENV OBJECTS "container volume image"
+ENV OPTIONS ""
 
 COPY docker-entrypoint.sh /usr/local/bin/
 
