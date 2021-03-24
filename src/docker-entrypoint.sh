@@ -18,6 +18,8 @@ do
         fi
     done
 
-    log "Wait ${INTERVAL}s ..."
+    next=$(date -u -d "@$(($(date +%s) + INTERVAL))" +%Y-%m-%dT%H:%M:%S%z)
+    log "Next run on ${next} ..."
+
     sleep "${INTERVAL}"
 done
