@@ -9,7 +9,13 @@ do
     for cur in ${OBJECTS}
     do
         log "Pruning ${cur} ..."
-        docker "${cur}" prune -f
+        if [ "${cur}" = "volume" ] && test "${OPTIONS#*until}" != "${OPTIONS}"
+        then
+            docker "${cur}" prune -f
+        else
+            # shellcheck disable=SC2086
+            docker "${cur}" prune -f ${OPTIONS}
+        fi
     done
 
     log "Wait ${INTERVAL}s ..."
