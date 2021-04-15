@@ -1,5 +1,13 @@
 # Changelog
 
+## [20.10.6](https://github.com/jokay/docker-prune/releases/tag/20.10.6) (2021-04-15)
+
+This release contains Docker [20.10.6](https://docs.docker.com/engine/release-notes/#20106).
+
+### Features
+
+- Added support for options, e.g. filters. (thx to [@neredera](https://github.com/neredera)
+
 ## [20.10.5](https://github.com/jokay/docker-prune/releases/tag/20.10.5) (2021-03-04)
 
 This release contains Docker [20.10.5](https://docs.docker.com/engine/release-notes/#20105).
