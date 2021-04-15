@@ -6,7 +6,7 @@ This release contains Docker [20.10.6](https://docs.docker.com/engine/release-no
 
 ### Features
 
-- Added support for options, e.g. filters. (thx to [@neredera](https://github.com/neredera)
+- Added support for options, e.g. filters. (thx to [@neredera](https://github.com/neredera))
 
 ## [20.10.5](https://github.com/jokay/docker-prune/releases/tag/20.10.5) (2021-03-04)
 
