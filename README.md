@@ -17,10 +17,10 @@ docker pull docker.io/xjokay/prune:latest
 
 ### Supported tags
 
-| Tag       | Description         | Size |
-|-----------|---------------------|------|
-| latest    | Latest `main` build | ![Size](https://shields.beevelop.com/docker/image/image-size/xjokay/prune/latest.svg?style=flat-square) |
-| {release} | Specific release version, see available [releases](https://github.com/jokay/docker-prune/releases) | |
+| Tag       | Description                                                                                        |
+|-----------|----------------------------------------------------------------------------------------------------|
+| latest    | [Latest](https://github.com/jokay/docker-prune/releases/latest) release                            |
+| {release} | Specific release version, see available [releases](https://github.com/jokay/docker-prune/releases) |
 
 ### Exposed Ports
 
