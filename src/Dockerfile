@@ -1,4 +1,4 @@
-FROM docker.io/docker:20.10.10@sha256:9a54056645ef715b689e10dcb49fb7fea85944175419eeffcda587ea02562ab5
+FROM docker.io/docker:20.10.10@sha256:ef7bb7fae023a1c895370ace48e3f4d470fe2351752565cdf4b3488ecb4a1fa8
 
 ENV INTERVAL 86400
 ENV OBJECTS "container volume image"
