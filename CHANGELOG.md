@@ -2,11 +2,11 @@
 
 ## [20.10.11](https://github.com/jokay/docker-prune/releases/tag/20.10.11) (2021-11-18)
 
-This release contains Docker 20.10.11.
+This release contains Docker [20.10.11](https://docs.docker.com/engine/release-notes/#201011).
 
 ## [20.10.10](https://github.com/jokay/docker-prune/releases/tag/20.10.10) (2021-10-26)
 
-This release contains Docker 20.10.10.
+This release contains Docker [20.10.10](https://docs.docker.com/engine/release-notes/#201010).
 
 ## [20.10.9](https://github.com/jokay/docker-prune/releases/tag/20.10.9) (2021-10-06)
 
