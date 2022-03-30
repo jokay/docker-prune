@@ -34,7 +34,7 @@ jobs:
           SPELL_MISSPELL_DISABLE_ERRORS: "true"
           VALIDATE_ALL_CODEBASE: "false"
           YAML_PRETTIER_DISABLE_ERRORS: "false"
-      - name: Upload artifacts
+      - name: Artifacts
         if: ${{ success() }} || ${{ failure() }}
         uses: actions/upload-artifact@v2
         with:
