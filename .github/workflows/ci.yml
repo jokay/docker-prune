@@ -38,7 +38,7 @@ jobs:
         if: ${{ success() }} || ${{ failure() }}
         uses: actions/upload-artifact@v2
         with:
-          name: MegaLinter reports
+          name: artifacts
           path: |
             report
             mega-linter.log
