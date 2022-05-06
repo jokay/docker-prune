@@ -1,5 +1,9 @@
 # Changelog
 
+## [20.10.15](https://github.com/jokay/docker-prune/releases/tag/20.10.15) (2022-05-06)
+
+This release contains Docker [20.10.15](https://docs.docker.com/engine/release-notes/#201015).
+
 ## [20.10.14](https://github.com/jokay/docker-prune/releases/tag/20.10.14) (2022-03-26)
 
 This release contains Docker [20.10.14](https://docs.docker.com/engine/release-notes/#201014).
