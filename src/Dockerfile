@@ -1,5 +1,5 @@
 # https://hub.docker.com/_/docker
-FROM docker.io/docker:20.10.17-alpine3.16@sha256:cee19af93958077db280d3987fef99866f539a8b640fc2e2ee0653f780d3de26
+FROM docker.io/docker:20.10.17-alpine3.16@sha256:386dd216988a21c83233d32b3926300909a111fa73266d035e992280aa3a9e42
 
 ENV INTERVAL 86400
 ENV OBJECTS "container volume image"
