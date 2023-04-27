@@ -1,5 +1,9 @@
 # Changelog
 
+## [23.0.5](https://github.com/jokay/docker-prune/releases/tag/23.0.5) (2023-04-27)
+
+This release contains Docker [23.0.5](https://docs.docker.com/engine/release-notes/23.0/#2305).
+
 ## [23.0.4](https://github.com/jokay/docker-prune/releases/tag/23.0.4) (2023-04-24)
 
 This release contains Docker [23.0.4](https://docs.docker.com/engine/release-notes/23.0/#2304).
