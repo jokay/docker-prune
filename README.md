@@ -1,6 +1,6 @@
 # Docker prune
 
-Docker image for Docker [prune](https://docs.docker.com/config/pruning).
+Multi-platform Docker image for Docker [prune](https://docs.docker.com/config/pruning).
 
 ## Information
 
