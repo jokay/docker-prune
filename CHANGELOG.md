@@ -1,5 +1,9 @@
 # Changelog
 
+## [26.0.1](https://github.com/jokay/docker-prune/releases/tag/26.0.1) (2024-04-15)
+
+This release contains Docker [26.0.1](https://docs.docker.com/engine/release-notes/26.0/#2601).
+
 ## [26.0.0](https://github.com/jokay/docker-prune/releases/tag/26.0.0) (2024-03-21)
 
 This release contains Docker [26.0.0](https://docs.docker.com/engine/release-notes/26.0/#2600).
