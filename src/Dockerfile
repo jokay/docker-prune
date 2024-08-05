@@ -3,9 +3,9 @@
 # https://hub.docker.com/_/docker
 FROM docker.io/docker:27.1.1@sha256:a690693976550aba640859bb3c3c29eb323a4f53f684c99b2a8282b14a22308b
 
-ENV INTERVAL 86400
-ENV OBJECTS "container volume image"
-ENV OPTIONS ""
+ENV INTERVAL=86400
+ENV OBJECTS="container volume image"
+ENV OPTIONS=""
 
 COPY entrypoint.sh /usr/local/bin/
 
