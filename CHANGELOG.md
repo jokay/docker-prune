@@ -1,24 +1,28 @@
 # Changelog
 
+## [27.2.0](https://github.com/jokay/docker-prune/releases/tag/27.2.0) (2024-09-02)
+
+This release contains Docker [27.2.0](https://docs.docker.com/engine/release-notes/27/#2720).
+
 ## [27.1.2](https://github.com/jokay/docker-prune/releases/tag/27.1.2) (2024-08-26)
 
-This release contains Docker [27.1.2](https://docs.docker.com/engine/release-notes/27.1/#2712).
+This release contains Docker [27.1.2](https://docs.docker.com/engine/release-notes/27/#2712).
 
 ## [27.1.1](https://github.com/jokay/docker-prune/releases/tag/27.1.1) (2024-07-29)
 
-This release contains Docker [27.1.1](https://docs.docker.com/engine/release-notes/27.1/#2711).
+This release contains Docker [27.1.1](https://docs.docker.com/engine/release-notes/27/#2711).
 
 ## [27.1.0](https://github.com/jokay/docker-prune/releases/tag/27.1.0) (2024-07-27)
 
-This release contains Docker [27.1.0](https://docs.docker.com/engine/release-notes/27.1/#2710).
+This release contains Docker [27.1.0](https://docs.docker.com/engine/release-notes/27/#2710).
 
 ## [27.0.3](https://github.com/jokay/docker-prune/releases/tag/27.0.3) (2024-07-17)
 
-This release contains Docker [27.0.3](https://docs.docker.com/engine/release-notes/27.0/#2703).
+This release contains Docker [27.0.3](https://docs.docker.com/engine/release-notes/27/#2703).
 
 ## [27.0.2](https://github.com/jokay/docker-prune/releases/tag/27.0.2) (2024-07-04)
 
-This release contains Docker [27.0.2](https://docs.docker.com/engine/release-notes/27.0/#2702).
+This release contains Docker [27.0.2](https://docs.docker.com/engine/release-notes/27/#2702).
 
 ## [26.1.4](https://github.com/jokay/docker-prune/releases/tag/26.1.4) (2024-06-10)
 
