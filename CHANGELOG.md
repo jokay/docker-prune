@@ -1,5 +1,9 @@
 # Changelog
 
+## [27.5.1](https://github.com/jokay/docker-prune/releases/tag/27.5.1) (2025-01-27)
+
+This release contains Docker [27.5.1](https://docs.docker.com/engine/release-notes/27/#2751).
+
 ## [27.5.0](https://github.com/jokay/docker-prune/releases/tag/27.5.0) (2025-01-20)
 
 This release contains Docker [27.5.0](https://docs.docker.com/engine/release-notes/27/#2750).
