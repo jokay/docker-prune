@@ -1,7 +1,7 @@
 # kics-scan disable=fd54f200-402c-4333-a5a4-36ef6709af2f,b03a748a-542d-44f4-bb86-9199ab4fd2d5
 
 # https://hub.docker.com/_/docker
-FROM docker.io/docker:27.5.1@sha256:3ab005a2e4872f0b10fb9c00d4230334043f1281f29299bd3de94a8f14a05e69
+FROM docker.io/docker:27.5.1@sha256:fc0a70ea23ea7b3a0ef2b3b73abf62c4875c39a1a42aac2697cbf0c9c53599e0
 
 ENV INTERVAL=86400
 ENV OBJECTS="container volume image"
