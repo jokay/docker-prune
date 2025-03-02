@@ -1,5 +1,13 @@
 # Changelog
 
+## [28.0.1](https://github.com/jokay/docker-prune/releases/tag/28.0.1) (2025-03-02)
+
+This release contains Docker [28.0.1](https://docs.docker.com/engine/release-notes/28/#2801).
+
+### Improvements
+
+- Switched to Docker cli image.
+
 ## [28.0.0](https://github.com/jokay/docker-prune/releases/tag/28.0.0) (2025-02-24)
 
 This release contains Docker [28.0.0](https://docs.docker.com/engine/release-notes/28/#2800).
