@@ -1,5 +1,9 @@
 # Changelog
 
+## [28.4.0](https://github.com/jokay/docker-prune/releases/tag/28.4.0) (2025-09-10)
+
+This release contains Docker [28.4.0](https://docs.docker.com/engine/release-notes/28/#2840).
+
 ## [28.3.3](https://github.com/jokay/docker-prune/releases/tag/28.3.3) (2025-08-12)
 
 This release contains Docker [28.3.3](https://docs.docker.com/engine/release-notes/28/#2833).
