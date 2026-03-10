@@ -1,5 +1,9 @@
 # Changelog
 
+## [29.3.0](https://github.com/jokay/docker-prune/releases/tag/29.3.0) (2026-03-10)
+
+This release contains Docker [29.3.0](https://docs.docker.com/engine/release-notes/29/#2930)
+
 ## [29.2.1](https://github.com/jokay/docker-prune/releases/tag/29.2.1) (2026-02-08)
 
 This release contains Docker [29.2.1](https://docs.docker.com/engine/release-notes/29/#2921)
