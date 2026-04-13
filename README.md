@@ -1,3 +1,5 @@
+[Archived] This repository has been archived.
+
 # Docker prune
 
 Multi-platform Docker image for Docker [prune](https://docs.docker.com/config/pruning).
